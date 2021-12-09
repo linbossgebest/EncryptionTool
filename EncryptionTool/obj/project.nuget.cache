@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1q3AviI4NHhlg5Vuo0fiX6EiUb3QjZYO7LNB7EbqHUk0/9jHE4ZuwSunuR2g4DPHMFzt8tXAkxCoIsJzPcoBVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\linyong\\source\\repos\\EncryptionTool\\EncryptionTool\\EncryptionTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\linyong\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

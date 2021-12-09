@@ -1,0 +1,11 @@
+C:\Users\linyong\source\repos\EncryptionTool\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\linyong\source\repos\EncryptionTool\Common\bin\Debug\net5.0\Common.dll
+C:\Users\linyong\source\repos\EncryptionTool\Common\bin\Debug\net5.0\ref\Common.dll
+C:\Users\linyong\source\repos\EncryptionTool\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\linyong\source\repos\EncryptionTool\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linyong\source\repos\EncryptionTool\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\linyong\source\repos\EncryptionTool\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\linyong\source\repos\EncryptionTool\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\linyong\source\repos\EncryptionTool\Common\obj\Debug\net5.0\Common.dll
+C:\Users\linyong\source\repos\EncryptionTool\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\linyong\source\repos\EncryptionTool\Common\obj\Debug\net5.0\Common.pdb
